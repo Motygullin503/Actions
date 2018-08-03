@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ebebeb</color>
+    <color name="colorPrimaryDark">#00000000</color>
+    <color name="colorAccent">#df191b</color>
+    <color name="textColor">#460b40</color>
+
+    <color name="grayArc">#76787a</color>
+    <color name="yellowArc">#F9A61A</color>
+
+    <color name="white">#ffffff</color>
+    <color name="button_background">#0fc0d4</color>
+
+    <color name="about_color">#0b0844</color>
+    <color name="settings_text_color">#521a4c</color>
+
+    <color name="circle_color">#da285b</color>
+</resources>
